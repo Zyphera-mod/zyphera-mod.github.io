@@ -181,14 +181,14 @@ module.exports = [
                 chunks: ['player'],
                 template: 'src/playground/index.ejs',
                 filename: 'index.html',
-                title: 'Zyphera Mod - A mod of TurboWarp',
+                title: 'Zyphera Mod - A mod of PenguinMod',
                 ...htmlWebpackPluginCommon
             }),
             new HtmlWebpackPlugin({
                 chunks: ['fullscreen'],
                 template: 'src/playground/index.ejs',
                 filename: 'fullscreen.html',
-                title: 'Zyphera Mod - A mod of TurboWarp',
+                title: 'Zyphera Mod - A mod of Penguinmod',
                 ...htmlWebpackPluginCommon
             }),
             new HtmlWebpackPlugin({
