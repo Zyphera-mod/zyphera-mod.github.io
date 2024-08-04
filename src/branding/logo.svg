@@ -2,6 +2,12 @@
 
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="307.3041" height="188.94758" viewBox="0,0,307.3041,188.94758">
   <defs>
+    <style type="text/css">
+      @font-face {
+        font-family: 'CheckBook';
+        src: url('./checkbook.ttf') format('truetype');
+      }
+    </style>
     <linearGradient x1="239.9999" y1="88.4676" x2="239.9999" y2="168.90676" gradientTransform="translate(-51.19543,-85.36855) scale(0.5523,0.57373)" gradientUnits="userSpaceOnUse" id="color-1">
       <stop offset="0" stop-color="#66ebff"/>
       <stop offset="1" stop-color="#9966ff"/>
