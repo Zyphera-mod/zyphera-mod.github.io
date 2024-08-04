@@ -1,0 +1,30 @@
+<!-- also made by cognitixsammy, thanks so much!!-->
+
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="55.69858" height="88.89297" viewBox="0,0,55.69858,88.89297">
+  <defs>
+    <style type="text/css">
+      @font-face {
+        font-family: 'CheckBook';
+        src: url('./checkbook.ttf') format('truetype');
+      }
+    </style>
+    <linearGradient x1="365.7944" y1="140.58724" x2="365.7944" y2="221.02732" gradientTransform="translate(-120.67287,-115.27023) scale(0.5523,0.57372)" gradientUnits="userSpaceOnUse" id="color-1">
+      <stop offset="0" stop-color="#66ebff"/>
+      <stop offset="1" stop-color="#9966ff"/>
+    </linearGradient>
+    <linearGradient x1="365.79437" y1="140.5872" x2="365.79437" y2="221.02729" gradientTransform="translate(-120.67285,-115.27022) scale(0.5523,0.57372)" gradientUnits="userSpaceOnUse" id="color-2">
+      <stop offset="0" stop-color="#66ebff"/>
+      <stop offset="1" stop-color="#9966ff"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(-213.0585,-137.12221)">
+    <g data-paper-data="{&quot;isPaintingLayer&quot;:true}" fill-rule="nonzero" stroke="#ffffff" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="&quot;CheckBook&quot;, Technological" font-weight="normal" font-size="40" text-anchor="start" style="mix-blend-mode: normal">
+      <text transform="translate(218.4903,200.91601) scale(1.8106,1.743)" font-size="40" xml:space="preserve" fill="url(#color-1)" fill-rule="nonzero" stroke="#ffffff" stroke-width="6" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="&quot;CheckBook&quot;, Technological" font-weight="normal" text-anchor="start" style="mix-blend-mode: normal">
+        <tspan x="0" dy="0">Z</tspan>
+      </text>
+      <text transform="translate(218.49027,200.91599) scale(1.8106,1.743)" font-size="40" xml:space="preserve" fill="url(#color-2)" fill-rule="nonzero" stroke="#ffffff" stroke-width="0" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="&quot;CheckBook&quot;, Technological" font-weight="normal" text-anchor="start" style="mix-blend-mode: normal">
+        <tspan x="0" dy="0">Z</tspan>
+      </text>
+    </g>
+  </g>
+</svg>
