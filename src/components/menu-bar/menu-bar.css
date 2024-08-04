@@ -236,3 +236,8 @@
     color: $ui-white !important;
     text-decoration: none;
 }
+
+.logo {
+    height: $menu-bar-height;
+    vertical-align: middle;
+}
