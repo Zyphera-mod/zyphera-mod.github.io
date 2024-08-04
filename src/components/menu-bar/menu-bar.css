@@ -238,6 +238,7 @@
 }
 
 .logo {
-    height: $menu-bar-height;
-    vertical-align: middle;
+    max-height: calc($menu-bar-height - 0.5rem);
+    height: auto;
+    margin-right: 1rem;
 }
