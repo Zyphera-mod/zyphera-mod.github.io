@@ -77,6 +77,7 @@ import languageIcon from '../language-selector/language-icon.svg';
 import aboutIcon from './icon--about.svg';
 import errorIcon from './tw-error.svg';
 import themeIcon from './tw-moon.svg';
+import logo from '../../branding/logo.svg';
 
 import scratchLogo from './scratch-logo.svg';
 
@@ -473,6 +474,7 @@ class MenuBar extends React.Component {
             >
                 <div className={styles.mainMenu}>
                     <div className={styles.fileGroup}>
+                        <img src={logo} alt="Zyphera Mod" className="logo" />
                         {this.props.onClickLogo ? (
                             <div className={classNames(styles.menuBarItem)}>
                                 <img
